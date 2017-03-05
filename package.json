@@ -1,6 +1,6 @@
 {
   "name": "m-rem",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Suitable for mobile terminal rem",
   "main": "index.js",
   "scripts": {
