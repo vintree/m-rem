@@ -1,0 +1,23 @@
+{
+  "name": "m-rem",
+  "version": "1.0.4",
+  "description": "Suitable for mobile terminal rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuguzi/m-rem.git"
+  },
+  "keywords": [
+    "m-rem",
+    "rem"
+  ],
+  "author": "puxiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuguzi/m-rem/issues"
+  },
+  "homepage": "https://github.com/wuguzi/m-rem#readme"
+}
